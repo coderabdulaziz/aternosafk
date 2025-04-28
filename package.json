@@ -1,0 +1,13 @@
+{
+  "name": "PROMC",
+  "version": "1.0.0",
+  "description": "Aternos serverni 24/7 ochiq tutish uchun AFK bot (kick holatiga moslashtirilgan)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["afk", "bot", "aternos", "minecraft"],
+  "author": "Sizning ismingiz",
+  "license": "MIT",
+  "dependencies": {}
+}
